@@ -129,5 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# writable stream output file
-filesystem/writable-stream/output.txt
+# stream output file
+**/output.txt
